@@ -18,7 +18,10 @@ Repositori ini berisi seluruh dokumen, skenario, dan laporan terkait analisis **
   - ▶️ [ACTIVE RECONNAISSANCE](DOKUMENTASI/)  
 
 - 📂 [LAPORAN](LAPORAN/)  
-- 📂 [SKENARIO](SKENARIO/)  
+- 📂 [SKENARIO](SKENARIO/)
+
+- link youtube
+  https://youtu.be/PJ8njIKG2qU?si=ZvBRxpn4mgHXhYGs
 
 ## 🛡️ Gambaran Umum Proyek
 ### 1. Passive Reconnaissance
