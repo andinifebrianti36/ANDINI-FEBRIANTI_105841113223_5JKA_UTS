@@ -14,8 +14,8 @@ Repositori ini berisi seluruh dokumen, skenario, dan laporan terkait analisis **
 ```
 
 - 📂 DOKUMENTASI  
-  - ▶️ [PASSIVE RECONNAISSANCE](DOKUMENTASI/PASSIVERECCONAISSANCE/)  
-  - ▶️ [ACTIVE RECONNAISSANCE](DOKUMENTASI/ACTIVERECONNAISSANCE/)  
+  - ▶️ [PASSIVE RECONNAISSANCE](DOKUMENTASI/)  
+  - ▶️ [ACTIVE RECONNAISSANCE](DOKUMENTASI/)  
 
 - 📂 [LAPORAN](LAPORAN/)  
 - 📂 [SKENARIO](SKENARIO/)  
